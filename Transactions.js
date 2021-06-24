@@ -50,9 +50,7 @@
       const request=document.createElement('p')
         request.setAttribute('class','request')
         statusdiv.appendChild(request)
-        const circle=document.createElement('i')
-        circle.setAttribute('class','fas fa-check-circle')
-        request.appendChild(circle)
+       
 
       if(array[i].type==1 && array[i].direction==1)
       {
