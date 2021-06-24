@@ -197,12 +197,7 @@
             transform: rotate(-45deg);
             -webkit-transform: rotate(-45deg);
         }
-        .fa-check-circle{
-            color: #00ff00;
-            font-size: 30px;
-            margin-right: 40px;
-            
-        }
+   
 
         .date-line{
             border: red solid 2px;
